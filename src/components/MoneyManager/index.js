@@ -208,4 +208,4 @@ class MoneyManager extends Component {
   }
 }
 
-export default MoneyDetails
+export default MoneyManager
